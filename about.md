@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Software Engineer in a Fortune 500 Financial Services company in the USA. I specialize in building RESTful APIs on Open Source stacks using Java, Spring, JAX-RS and JPA. I am passionate about building software solutions that are right-sized, bloat-free, robust and maintainable. I am currently focused on learning front end technologies such as AngularJS. As far as my technical background goes, I have worked on a wide variety of platforms and applications including Unix/Linux, Mainframes, Relational Databases, Data Warehouses, ETL processes, Rules Engines and Web Services. I also have hands on coding experience with Unix shell scripts, C/C++, VBA, SQL, JavaScript, Python and Ruby.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In my previous role as a Business Systems Analyst, I used to work closely with the Intent Owner to elicit and refine the Business Requirements of the problem. Then I turned around and collaborated with the technology team to define the optimal Solution Design. I stayed involved in the delivery process through development, testing and implementation. Along the way, I have managed teams and platforms. I have experience with audits and controls, risk management, configuration management, change management and domain target architecture. I have been recognized as a Subject Matter Expert on internal business applications and processes.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Though I have a lot of experience with Waterfall style delivery, I currently utilize the Agile Scrum methodology at work. I have worked on creating Epics and Features on a Product Backlog and decomposing them into Stories and Tasks that are completed during Sprints. I am comfortable leading team ceremonies such as Scrum, Planning, Demos and Retrospectives. I am also familiar with Extreme Programming technical practices such as Pair Programming, Test Driven Development (TDD), Acceptance Test Driven Development (ATDD) and Continuous Integration.
 
-
-[jekyll-organization]: https://github.com/jekyll
+If you would like to learn some more about me, check out my [LinkedIn profile](https://www.linkedin.com/in/sujithpaul).
