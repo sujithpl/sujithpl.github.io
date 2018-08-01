@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: single
 title:  "Why Should Developers Write Unit Tests?"
 date:   2017-01-03 00:00:00 -0500
 categories: professional

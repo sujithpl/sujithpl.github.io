@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "A Nuance of Lambda Functions in Java 8"
 date:   2017-02-08 00:00:00 -0500
 categories: professional

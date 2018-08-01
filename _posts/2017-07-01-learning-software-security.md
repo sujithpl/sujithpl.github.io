@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "Learning about Software Security"
 date:   2017-07-01 00:00:00 -0500
 categories: professional

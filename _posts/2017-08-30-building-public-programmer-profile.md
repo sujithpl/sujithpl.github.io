@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "Building a Public Profile as a Programmer"
 date:   2017-08-30 00:00:00 -0500
 categories: professional

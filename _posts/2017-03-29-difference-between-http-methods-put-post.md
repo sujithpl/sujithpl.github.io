@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title:  "The Difference between the HTTP methods PUT and POST"
 date:   2017-03-29 00:00:00 -0500
 categories: professional

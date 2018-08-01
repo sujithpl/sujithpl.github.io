@@ -13,22 +13,67 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: en-US
 title: Notes from My Life
-author: Sujith Paul
+name: &name Sujith Paul
 email: sujithpl@hotmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
   Sujith Paul blogs about topics of interest to him such as software engineering, hardware
   advances, business, science, technology and their social impacts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sujithpl 
-github_username:  sujithpl
+repository: sujithpl/sujithpl.github.io
+
+# Social Sharing
+twitter:
+  username               : &twitter "sujithpl"
 
 # Build settings
 markdown: kramdown
-theme: minima 
+remote_theme: "mmistakes/minimal-mistakes" 
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  bio              : Software Engineer
+  location         : Richmond, VA
+  github           : sujithpl
+  linkedin         : sujithpaul
+  twitter          : *twitter
+
+# Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+defaults:
+# _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +86,33 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+include:
+  - _pages
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
