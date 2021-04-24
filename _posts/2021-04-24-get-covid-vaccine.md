@@ -1,6 +1,6 @@
 ---
 #layout: post
-title:  "Making the Case to Get Vaccinated"
+title:  "Making the Case for Getting Vaccinated"
 date:   2021-04-24 00:00:00 -0500
 categories: personal
 tags: [covid-19]
