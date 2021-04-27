@@ -1,21 +1,21 @@
 ---
 #layout: post
 title:  "Making the Case for Getting Vaccinated"
-date:   2021-04-24 00:00:00 -0500
+date:   2021-04-27 00:00:00 -0500
 categories: personal
 tags: [covid-19]
 ---
-I was recently talking to my parents about the dire COVID-19 situation in India. As the general public there has increasingly become lax about wearing masks and maintaining social distancing, infection and death rates are surging. Hospitals in many areas have run out of beds and treatment supplies. In order to claw back some control over the spread of the disease, the authorities may have no choice but to declare complete lockdowns that would be debilitating to the economy and society.
+I was recently talking to my parents about the [dire COVID-19 situation in India](https://www.npr.org/sections/goatsandsoda/2021/04/22/989768074/how-india-went-from-a-ray-of-hope-to-a-world-record-for-most-covid-cases-in-a-da). As the general public there has increasingly become lax about wearing masks and maintaining social distancing, infection and death rates are surging. [Hospitals in many areas have run out of beds and treatment supplies](https://www.npr.org/2021/04/26/990980147/u-s-sending-assistance-as-covid-19-overwhelms-indias-health-system). In order to claw back some control over the spread of the disease, the authorities may have no choice but to declare complete lockdowns that would be debilitating to the economy and society.
 
 Though my parents have been eligible for a vaccine for a while, they have not been able to schedule a confirmed appointment for one due to the erratic supply situation. And even if they were able to secure an appointment, they are worried about the potential exposure to the virus when they travel to and wait at the vaccination site. And on top of all that, they are getting bombarded with mixed messages about the effectiveness and the side effects of the vaccines themselves.
 
-In contrast, I just got my second dose of the Pfizer mRNA vaccine at a local grocery store. All indications are that this particular vaccine provides excellent protection against the SARS-CoV-2 virus. As I write this, all adults in the US have become eligible to receive one of the three vaccines available here. And nobody is anticipating widespread shortages of the vaccines.
+In contrast, I just got my second dose of the Pfizer mRNA vaccine at a local grocery store. All indications are that [this particular vaccine provides excellent protection](https://www.latimes.com/world-nation/story/2021-02-24/pfizer-vaccine-is-effective-across-demographics-according-to-large-scale-data-from-israel) against the SARS-CoV-2 virus. As I write this, all adults in the US have become eligible to receive one of the three vaccines available here. And nobody is anticipating widespread shortages of the vaccines.
 
 Unfortunately, it looks like a significant section of the American population is opposed to getting vaccinated. This will not only put those individuals at risk but also prevent the country from achieving herd immunity as a whole. That in turn would allow the virus to continue spreading and mutating into more potent variants that could eventually overcome the protection provided by the current vaccines!
 
-It would be truly tragic if we squander this opportunity before us, especially considering that many countries in the world do not expect to get vaccines for all their citizens till at least the end of 2022.
+It would be truly tragic if we squander this opportunity before us, especially considering that [many countries in the world do not expect to get vaccines for all their citizens](https://www.npr.org/transcripts/973791968) till at least the end of 2022.
 
-To be honest, I too was a bit hesitant about getting the Pfizer or Moderna mRNA vaccine. So I decided to read up all the material I could get my hands on and discuss my concerns with people who are knowledgeable about these topics. Then I thought long and hard about everything I had learned and ultimately came to the conclusion that it was in my best interest to get the vaccine.
+To be honest, I too was a bit hesitant about getting the Pfizer or Moderna mRNA vaccine. So I decided to read up all the material I could get my hands on (like [this](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html))and discuss my concerns with people who are knowledgeable about these topics. Then I thought long and hard about everything I had learned and ultimately came to the conclusion that it was in my best interest to get the vaccine.
 
 I present my reasoning below in the hope that it changes the mind of at least one person who is on the fence.
 
@@ -32,6 +32,6 @@ The alternative to the vaccines are the following.
 
 Or I could just get the vaccine that has been shown to be extremely effective in preventing infection or at least reducing the severity of illness and the chance of mortality. The choice is pretty obvious to me.
 
-While we have come a long way in understanding viruses and the human immune system, I acknowledge that the science is far from complete. But the mRNA technology being used in these vaccines has been in research and development for decades. The theory behind them is quite solid and the human trials have proven their efficacy and safety about as definitively as possible, given the circumstances.
+While we have come a long way in understanding viruses and the human immune system, I acknowledge that the science is far from complete. But the [mRNA technology being used in these vaccines has been in research and development for decades](https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/). The theory behind them is quite solid and the human trials have proven their efficacy and safety about as definitively as possible, given the circumstances.
 
-I encourage you to seriously consider getting vaccinated at the earliest. Let us do our part to overcome the pandemic and restore normalcy to our lives.
+I encourage you to seriously consider [getting vaccinated at the earliest](https://www.washingtonpost.com/lifestyle/wellness/best-vaccine-johnson-moderna-pfizer/2021/02/25/acf6527e-76af-11eb-9537-496158cc5fd9_story.html). Let us do our part to overcome the pandemic and restore normalcy to our lives.
