@@ -7,6 +7,6 @@ Jekyll based static site for my personal blog
 
 ## Local development
 - Install: `bundle install`
-- Update dependencies: `bundle update github-pages`
+- Update dependencies: `bundle update github-pages minimal-mistakes-jekyll`
 - Run locally: `bundle exec jekyll serve`
 - Browse: http://localhost:4000/
