@@ -9,12 +9,9 @@ permalink: /resources/
 - [Herberto Graca](https://herbertograca.com/) *DDD, Architecture*
 
 ## Software Craftsmanship
-- [Gee Paw Hill](https://www.geepawhill.org/weekly/) *XP*
-- [Allen Holub](https://holub.com/goodies/) *Agile, Design Patterns*
-- [J. B. Rainsberger](https://thecodewhisperer.com/) *TDD*
 - [Awesome Agile](https://github.com/lorabv/awesome-agile)
-- [David Bernstein](https://tobeagile.com/blog/) *XP, Agile*
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Semantic Versioning](https://semver.org/)
 - [XP Wiki](https://wiki.c2.com/?XpFaq)
 - [XP FAQ](https://jera.com/techinfo/xpfaq)
 - [Technical Excellence](https://less.works/less/technical-excellence)
@@ -24,6 +21,7 @@ permalink: /resources/
 - [Collection of Katas](https://github.com/emilybache)
 - [Coding Dojo](http://codingdojo.org/)
 - [Cyber Dojo](https://cyber-dojo.org/creator/home)
+- [Kata Log](https://kata-log.rocks/)
 
 ## Legacy Code Refactoring
 - [The Mikado Method](http://mikadomethod.info/)
@@ -31,8 +29,12 @@ permalink: /resources/
 - [Deep Roots](https://www.digdeeproots.com/articles/on/naming-process/)
 
 ## Developer Blogs
+- [Allen Holub](https://holub.com/goodies/) *Agile, Design Patterns*
+- [David Bernstein](https://tobeagile.com/blog/) *XP, Agile*
+- [J. B. Rainsberger](https://thecodewhisperer.com/) *TDD*
 - [James Shore](https://www.jamesshore.com/v2/best) *Agile, TDD*
 - [Jessica Kerr](https://jessitron.com/blog/)
+- [Gee Paw Hill](https://www.geepawhill.org/weekly/) *XP*
 - [Glenn Vanderburg](https://vanderburg.org/blog/)
 - [Martin Cartledge](https://www.martincartledge.io/) *Go, Interviewing, Productivity*
 - [Mihai](https://amihaiemil.com/aboutme/about.html) *OOP, Java*
