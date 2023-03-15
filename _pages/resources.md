@@ -6,6 +6,7 @@ permalink: /resources/
 
 ## Software Architecture
 - [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+- [Developer to Architect](https://developertoarchitect.com/)
 - [Herberto Graca](https://herbertograca.com/) *DDD, Architecture*
 
 ## Software Craftsmanship
@@ -38,6 +39,7 @@ permalink: /resources/
 - [Glenn Vanderburg](https://vanderburg.org/blog/)
 - [Martin Cartledge](https://www.martincartledge.io/) *Go, Interviewing, Productivity*
 - [Mihai](https://amihaiemil.com/aboutme/about.html) *OOP, Java*
+- [Marco Behler](https://www.marcobehler.com/) *Java/JVM*
 
 ## Java
 - [Understanding Maven](https://cguntur.me/2020/05/20/understanding-apache-maven-the-series/)
@@ -45,6 +47,14 @@ permalink: /resources/
 ## Python
 - [Python 3 Patterns](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
 - [Software Architecture](https://www.cosmicpython.com/)
+
+## Shell
+- [Bash Guide](https://mywiki.wooledge.org/BashGuide)
+- [Oil](https://www.oilshell.org/) *Improved bash like shell*
+
+## Documentation
+- [Write the Docs](https://www.writethedocs.org/)
+- [The Good Docs Project](https://thegooddocsproject.dev/)
 
 ## Web Freedom
 - [IndieWeb](https://indieweb.org/)
