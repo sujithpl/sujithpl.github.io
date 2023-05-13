@@ -1,9 +1,12 @@
 ---
-#layout: post
-title:  "Balancing Expressiveness and Brevity"
-date:   2018-09-21 00:00:00 -0500
-categories: professional
-tags: [java, programming, testing]
+categories:
+- professional
+date: "2018-09-21T00:00:00Z"
+tags:
+- java
+- programming
+- testing
+title: Balancing Expressiveness and Brevity
 ---
 I really enjoy refactoring code. However, I rarely get that opportunity at my job because I primarily work on a large Java application that is mature and well maintained.
 

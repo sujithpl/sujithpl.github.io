@@ -1,9 +1,11 @@
 ---
-#layout: post
-title:  "A Nuance of Lambda Functions in Java 8"
-date:   2017-02-08 00:00:00 -0500
-categories: professional
-tags: [java, programming]
+categories:
+- professional
+date: "2017-02-08T00:00:00Z"
+tags:
+- java
+- programming
+title: A Nuance of Lambda Functions in Java 8
 ---
 As I was trying to solve part 2 of the [Day 6 problem](https://github.com/sujithpl/advent-of-code-2015-java) in the [Advent of Code 2015](https://adventofcode.com/2015) challenge using Java 8, I ran into a curious problem. I had defined functions as follows for the various operations.
 

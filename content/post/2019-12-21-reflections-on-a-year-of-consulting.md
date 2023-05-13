@@ -1,9 +1,10 @@
 ---
-#layout: post
-title:  "Reflections on a Year of Consulting"
-date:   2019-12-21 00:00:00 -0500
-categories: professional
-tags: [consulting]
+categories:
+- professional
+date: "2019-12-21T00:00:00Z"
+tags:
+- consulting
+title: Reflections on a Year of Consulting
 ---
 I last posted an entry in this blog more than a year ago. There have been quite a few changes in my life during that time. From a professional perspective, the most significant one was that I switched jobs.
 

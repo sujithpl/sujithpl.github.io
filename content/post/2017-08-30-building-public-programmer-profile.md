@@ -1,9 +1,10 @@
 ---
-#layout: post
-title:  "Building a Public Profile as a Programmer"
-date:   2017-08-30 00:00:00 -0500
-categories: professional
-tags: programming
+categories:
+- professional
+date: "2017-08-30T00:00:00Z"
+tags:
+- programming
+title: Building a Public Profile as a Programmer
 ---
 A few months ago, I watched the documentary [“Get Involved!”](https://www.pluralsight.com/courses/get-involved) by Rob Conery and Scott Hanselman. It is available as a free video course from Pluralsight. In the feature, Rob and Scott provide advice on becoming a “social programmer” in order to enhance one’s career prospects.
 

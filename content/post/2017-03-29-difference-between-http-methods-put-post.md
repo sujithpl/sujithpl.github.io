@@ -1,9 +1,12 @@
 ---
-#layout: post
-title:  "The Difference between the HTTP methods PUT and POST"
-date:   2017-03-29 00:00:00 -0500
-categories: professional
-tags: [api, programming, rest]
+categories:
+- professional
+date: "2017-03-29T00:00:00Z"
+tags:
+- api
+- programming
+- rest
+title: The Difference between the HTTP methods PUT and POST
 ---
 It seems that almost everyone is using [RESTful](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) APIs everywhere. A very common question that comes up is which of the two [HTTP](http://www.rfc-editor.org/info/rfc7230) methods PUT and POST should be used in a particular situation. In this post, I will describe my understanding of the difference between the two methods.
 

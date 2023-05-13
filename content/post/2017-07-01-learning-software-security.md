@@ -1,9 +1,12 @@
 ---
-#layout: post
-title:  "Learning about Software Security"
-date:   2017-07-01 00:00:00 -0500
-categories: professional
-tags: [java, programming, security]
+categories:
+- professional
+date: "2017-07-01T00:00:00Z"
+tags:
+- java
+- programming
+- security
+title: Learning about Software Security
 ---
 Before I started my journey to become a Software Engineer, I did not think about software security much beyond installing a good anti-malware product on individual computers and configuring the wireless network with the most advanced security options. As an ordinary user, I just had to use strong and unique passwords for each of my online accounts.
 
