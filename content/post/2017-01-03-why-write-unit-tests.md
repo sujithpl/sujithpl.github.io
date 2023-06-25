@@ -1,9 +1,11 @@
 ---
-#layout: single
-title:  "Why Should Developers Write Unit Tests?"
-date:   2017-01-03 00:00:00 -0500
-categories: professional
-tags: [programming, testing]
+categories:
+- professional
+date: "2017-01-03T00:00:00Z"
+tags:
+- programming
+- testing
+title: Why Should Developers Write Unit Tests?
 ---
 Even though nowadays it is generally expected that developers would always write [unit tests](http://artofunittesting.com/definition-of-a-unit-test/), I have run into quite a few of them who loathe doing that. In fact if it weren't for [test coverage](http://istqbexamcertification.com/what-is-test-coverage-in-software-testing-its-advantages-and-disadvantages/) gates in the code check-in process, they would completely skip that step and keep coding new features instead. But forcing developers to meet a certain testing metric does not always produce the desired results. You can end up with a bunch of useless test cases that were written specifically to meet the minimum required coverage threshold.
 

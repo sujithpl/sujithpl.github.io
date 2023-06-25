@@ -1,9 +1,11 @@
 ---
-#layout: post
-title:  "Linux Shell Key Bindings"
-date:   2022-07-31 00:00:00 -0500
-categories: professional
-tags: [linux, programming]
+categories:
+- professional
+date: "2022-07-31T00:00:00Z"
+tags:
+- linux
+- programming
+title: Linux Shell Key Bindings
 ---
 By default, bash (and zsh & fish too) is configured with line editing commands similar to those of Emacs. It can also be switched to a vi-style interface.
 

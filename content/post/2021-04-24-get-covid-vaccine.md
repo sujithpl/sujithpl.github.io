@@ -1,9 +1,10 @@
 ---
-#layout: post
-title:  "Making the Case for Getting Vaccinated"
-date:   2021-04-27 00:00:00 -0500
-categories: personal
-tags: [covid-19]
+categories:
+- personal
+date: "2021-04-24T00:00:00Z"
+tags:
+- covid-19
+title: Making the Case for Getting Vaccinated
 ---
 I was recently talking to my parents about the [dire COVID-19 situation in India](https://www.npr.org/sections/goatsandsoda/2021/04/22/989768074/how-india-went-from-a-ray-of-hope-to-a-world-record-for-most-covid-cases-in-a-da). As the general public there has increasingly become lax about wearing masks and maintaining social distancing, infection and death rates are surging. [Hospitals in many areas have run out of beds and treatment supplies](https://www.npr.org/2021/04/26/990980147/u-s-sending-assistance-as-covid-19-overwhelms-indias-health-system). In order to claw back some control over the spread of the disease, the authorities may have no choice but to declare complete lockdowns that would be debilitating to the economy and society.
 
