@@ -13,6 +13,7 @@ title = "Notes from My Life"
 author = "Sujith Paul"
 description = "Sujith Paul"
 profilePicture = "images/profile.jpg"
+favicon = "favicons/"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
