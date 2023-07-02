@@ -1,12 +1,12 @@
 # sujithpl.github.io
-Jekyll based static site for my personal blog
+Hugo based static site for my personal blog & webpage
 
 ## References
-- [Jekyll Official Documentation](https://jekyllrb.com/docs/)
-- [GitHub Pages Documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll#keeping-your-site-up-to-date-with-the-github-pages-gem)
+- [Hugo Official Documentation](https://gohugo.io/documentation/)
+- [GitHub Hosting Documentation](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+- [Anatole Theme Documentation](https://github.com/lxndrblz/anatole/wiki)
 
 ## Local development
-- Install: `bundle install`
-- Update dependencies: `bundle update github-pages minimal-mistakes-jekyll`
-- Run locally: `bundle exec jekyll serve`
-- Browse: http://localhost:4000/
+- Update theme: `hugo mod get -u github.com/lxndrblz/anatole`
+- Run locally: `hugo serve`
+- Browse: http://localhost:1313/
