@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Software Documentation
 ---
 
 - [Write the Docs](https://www.writethedocs.org/)
