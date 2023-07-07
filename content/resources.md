@@ -11,6 +11,6 @@ title: Resources
 - [Go](/page/go)
 - [Python](/page/python)
 - [Shell](/page/shell)
-- [Documentation](/page/documentation)
+- [Software Documentation](/page/documentation)
 - [Web Freedom](/page/web-freedom)
 - [Typing](/page/typing)
