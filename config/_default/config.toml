@@ -8,54 +8,6 @@ theme = "github.com/lxndrblz/anatole"
 # theme as git submodule
 #theme = "anatole"
 
-[params]
-title = "Notes from My Life"
-author = "Sujith Paul"
-description = "Sujith Paul"
-profilePicture = "images/profile.jpg"
-favicon = "favicons/"
-
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "LinkedIn"
-url = "https://www.linkedin.com/in/sujithpaul"
-
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/sujithpl"
-
-[[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/sujithpl"
-
-[menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "Resources"
-  weight = 300
-  identifier = "resources"
-  url = "/resources/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 400
-  identifier = "about"
-  url = "/about/"
-
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
