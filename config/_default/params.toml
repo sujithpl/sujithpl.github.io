@@ -65,9 +65,9 @@ title = "GitHub"
 url = "https://github.com/sujithpl"
 
 [[socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/sujithpl"
+icon = "fab fa-mastodon"
+title = "Mastodon"
+url = "https://toot.legacycode.rocks/@sujithpl"
 
 [mermaid]
 # enable = true
